@@ -1,0 +1,12 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image":{
+      "Name": "cayo322/mymicroservice:v1",
+      "Update": "true"
+    },
+    "Ports":[
+      {
+        "ContainerPort": "3000"
+      }
+    ]
+  }
